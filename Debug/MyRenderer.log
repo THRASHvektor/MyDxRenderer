@@ -1,0 +1,4 @@
+﻿  Initialize.cpp
+D:\DX12\MyRenderer\Private\Initialize.cpp(335,20): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+D:\DX12\MyRenderer\Private\Initialize.cpp(336,21): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+  MyRenderer.vcxproj -> D:\DX12\MyRenderer\Debug\MyRenderer.exe
